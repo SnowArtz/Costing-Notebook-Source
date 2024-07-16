@@ -1,0 +1,1 @@
+mask = np.random.rand(len(X)) < probabilities

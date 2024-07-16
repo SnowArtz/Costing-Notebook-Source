@@ -1,0 +1,1 @@
+class_predictions = (mean_prediction >= 0.5).astype(int)

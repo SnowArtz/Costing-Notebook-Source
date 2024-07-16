@@ -1,0 +1,1 @@
+classifier.fit(X_sample, y_sample)

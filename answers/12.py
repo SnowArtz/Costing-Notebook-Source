@@ -1,0 +1,1 @@
+costing = Costing(RandomForestClassifier(), 5, random_state=42)

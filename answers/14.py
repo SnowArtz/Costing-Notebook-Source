@@ -1,0 +1,1 @@
+costing = Costing(XGBClassifier(), 5, random_state=42)

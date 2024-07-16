@@ -1,0 +1,1 @@
+costing = Costing(DecisionTreeClassifier(), 5, random_state=0)

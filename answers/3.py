@@ -1,0 +1,1 @@
+X_sample, y_sample = self.cost_proportionate_rejection_sampling(X, y, c)

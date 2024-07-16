@@ -1,0 +1,1 @@
+costing.fit(X_train, y_train, np.where(y_train == 0, 2, 10))
